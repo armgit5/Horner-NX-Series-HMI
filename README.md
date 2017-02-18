@@ -1,5 +1,5 @@
 # Horner-NX-Series-HMI
-Horner HMI integrated with TS4200 embedded linux sbc - uses modbus communication protocol, ladder logic program that runs on CScape software.
+Horner HMI integrated with TS4200 embedded linux sbc and vega radar sensor - uses modbus communication protocol, ladder logic program that runs on CScape software.
 Uses Horner NX-Series-HMI (http://www.heapg.com/legacy-products/121-nx-series.html)
 More pictures please see https://plus.google.com/photos/114338000153341131198/albums/5833685606486241009?aut%20hkey=CL25kuSEqc_QkQE
 
